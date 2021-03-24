@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-//Assinatura das funçãos.
+//Assinatura das funções.
 void Exibir_Menu();
 int Receber_Codigo();
 int Processar_Codigo();
