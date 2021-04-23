@@ -17,7 +17,8 @@ typedef struct tipo_aluno {
 
 int main(){
 	ALUNO vetAlunos[3];
-    int opcao = 0, qtdAlunos = 0;
+    int opcao = 0;
+    int qtdAlunos = 0;
 	do
 	{ 
 	    printf ("\n******************************ALUNO*****************************\n\n"); 	
