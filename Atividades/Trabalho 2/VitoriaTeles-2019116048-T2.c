@@ -4,8 +4,6 @@
 
 #include "VitoriaTeles-2019116048-T2.h"
 
-int vetorPrincipal[TAM];
-
 void dobrar(int *x)
 {
 
